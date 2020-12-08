@@ -36,7 +36,7 @@
 	</tr>
 	<tr>
 		<td>판매 날짜</td>
-		<td><input type="date" name="puchase_date"></td>
+		<td><input type="date" name="purchase_date"></td>
 	</tr>
 	<tr>
 		<td colspan="2">
