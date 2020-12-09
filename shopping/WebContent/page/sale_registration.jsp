@@ -40,6 +40,12 @@
 		<td><input type="date" name="purchase_date"></td>
 	</tr>
 	<tr>
+		<td>
+			<input type="radio" name="gender" value="male"><a>남</a>
+			<input type="radio" name="gender" value="female"><a>여</a>
+		</td>
+	</tr>
+	<tr>
 		<td colspan="2">
 			<input type="button" value="등록하기" onclick="submit_form()">
 			<input type="button" value="다시쓰기" onclick="reset_form()">
